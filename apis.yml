@@ -1,0 +1,7 @@
+aid: textron
+url: https://raw.githubusercontent.com/api-evangelist/textron/refs/heads/main/apis.yml
+modified: '2026-03-21'
+apis: []
+common:
+  - type: Website
+    url: https://www.textron.com
