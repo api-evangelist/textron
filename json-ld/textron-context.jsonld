@@ -1,0 +1,58 @@
+{
+  "@context": {
+    "@vocab": "https://schema.textron.com/v1/",
+    "schema": "http://schema.org/",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+
+    "Organization": "schema:Organization",
+    "name": "schema:name",
+    "description": "schema:description",
+    "url": "schema:url",
+
+    "Company": "schema:Corporation",
+    "subsidiary": "schema:subOrganization",
+    "revenue": "schema:revenue",
+    "employees": "schema:numberOfEmployees",
+
+    "AircraftManufacturer": {
+      "@id": "https://schema.textron.com/v1/AircraftManufacturer",
+      "@type": "schema:Corporation"
+    },
+    "DefenseContractor": {
+      "@id": "https://schema.textron.com/v1/DefenseContractor",
+      "@type": "schema:Corporation"
+    },
+
+    "Segment": "schema:BusinessFunction",
+    "Bell": {
+      "@id": "https://schema.textron.com/v1/Bell",
+      "@type": "schema:Organization"
+    },
+    "TextronAviation": {
+      "@id": "https://schema.textron.com/v1/TextronAviation",
+      "@type": "schema:Organization"
+    },
+    "TextronSystems": {
+      "@id": "https://schema.textron.com/v1/TextronSystems",
+      "@type": "schema:Organization"
+    },
+    "Kautex": {
+      "@id": "https://schema.textron.com/v1/Kautex",
+      "@type": "schema:Organization"
+    },
+
+    "Aircraft": "schema:Product",
+    "brand": "schema:brand",
+    "model": "schema:model",
+    "manufacturer": "schema:manufacturer",
+
+    "created": {
+      "@id": "schema:dateCreated",
+      "@type": "xsd:dateTime"
+    },
+    "modified": {
+      "@id": "schema:dateModified",
+      "@type": "xsd:dateTime"
+    }
+  }
+}

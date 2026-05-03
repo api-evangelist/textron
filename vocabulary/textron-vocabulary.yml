@@ -1,0 +1,146 @@
+vocabulary:
+  name: Textron Industry Vocabulary
+  description: >-
+    Domain vocabulary for Textron Inc., covering its aerospace, defense,
+    aviation, and industrial business segments and product lines.
+  version: '1.0'
+  created: '2026-05-03'
+  modified: '2026-05-03'
+
+terms:
+  - term: Bell
+    definition: >-
+      Bell Textron Inc., a Textron subsidiary headquartered in Fort Worth, Texas.
+      Manufactures military rotorcraft (V-22 Osprey, AH-1Z Viper, UH-1Y Venom)
+      and commercial helicopters (Bell 429, Bell 505, Bell 525).
+    domain: Business Segment
+    tags:
+      - Aviation
+      - Helicopter
+      - Defense
+
+  - term: Textron Aviation
+    definition: >-
+      Textron's aviation segment that manufactures and services Cessna and
+      Beechcraft aircraft, and services Hawker business jets. Produces the
+      Cessna Citation jet family, Cessna Caravan, Beechcraft King Air, and
+      Beechcraft Bonanza/Baron piston aircraft.
+    domain: Business Segment
+    tags:
+      - Aviation
+      - Fixed-Wing
+      - Business Jets
+
+  - term: Cessna
+    definition: >-
+      An aircraft brand under Textron Aviation producing piston singles (Skyhawk,
+      Skylane), turboprops (Caravan, Grand Caravan), and business jets
+      (Citation family).
+    domain: Brand
+    tags:
+      - Aviation
+      - Brand
+
+  - term: Beechcraft
+    definition: >-
+      An aircraft brand under Textron Aviation producing the King Air turboprop
+      family, Bonanza piston aircraft, Baron twin-engine piston, and the
+      AT-6 military trainer.
+    domain: Brand
+    tags:
+      - Aviation
+      - Brand
+
+  - term: Textron Systems
+    definition: >-
+      Textron's defense and technology segment producing unmanned systems,
+      weapons, marine craft, and training systems. Products include RIPSAW M1
+      unmanned ground vehicles, TSUNAMI uncrewed surface vessels, and
+      Howe & Howe robotics.
+    domain: Business Segment
+    tags:
+      - Defense
+      - Autonomous Systems
+      - Robotics
+
+  - term: Kautex
+    definition: >-
+      A Textron Industrial segment company producing plastic fuel systems,
+      urea tanks, camshaft covers, and structural components for automotive
+      manufacturers worldwide.
+    domain: Business Segment
+    tags:
+      - Industrial
+      - Automotive
+
+  - term: E-Z-GO
+    definition: >-
+      A Textron brand producing electric and gas-powered golf carts,
+      personal transportation vehicles, and utility vehicles for golf
+      courses, resorts, and commercial applications.
+    domain: Brand
+    tags:
+      - Industrial
+      - Transportation
+
+  - term: Textron eAviation
+    definition: >-
+      Textron's electric aviation initiative. As of 2026, includes
+      Pipistrel electric light aircraft and is being integrated into
+      the Textron Aviation segment.
+    domain: Business Segment
+    tags:
+      - Aviation
+      - Electric
+
+  - term: V-22 Osprey
+    definition: >-
+      A tiltrotor aircraft jointly developed by Bell and Boeing for the
+      US military. Manufactured by Bell at its Amarillo, Texas facility.
+      Combines helicopter vertical takeoff with fixed-wing cruise speed.
+    domain: Product
+    tags:
+      - Defense
+      - Military
+      - Rotorcraft
+
+  - term: Citation
+    definition: >-
+      Cessna's family of business jets ranging from the entry-level Citation
+      M2 to the ultra-long-range Citation Longitude. The Citation CJ3 Gen2
+      entered service in January 2026 with upgraded Garmin avionics.
+    domain: Product
+    tags:
+      - Aviation
+      - Business Jets
+
+  - term: King Air
+    definition: >-
+      Beechcraft's turboprop aircraft family. The King Air C90, King Air 200,
+      and King Air 350 series are widely used for corporate, charter,
+      medevac, and government missions.
+    domain: Product
+    tags:
+      - Aviation
+      - Turboprop
+
+  - term: Hawker
+    definition: >-
+      A brand of business jets serviced (but no longer manufactured) by
+      Textron Aviation, originating from Raytheon/Beechcraft's acquisition
+      of the Hawker Siddeley jet line.
+    domain: Brand
+    tags:
+      - Aviation
+      - Business Jets
+
+  - term: RIPSAW M1
+    definition: >-
+      An unmanned ground vehicle (UGV) produced by Howe & Howe, a Textron
+      Systems subsidiary. Designed for military reconnaissance, force
+      protection, and autonomous ground operations.
+    domain: Product
+    tags:
+      - Defense
+      - Robotics
+      - Autonomous Systems
