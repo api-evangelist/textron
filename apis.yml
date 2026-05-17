@@ -42,7 +42,7 @@ common:
   - type: Website
     url: https://www.textronsystems.com/
     name: Textron Systems
-  - type: JSON-LD
+  - type: JSONLD
     url: json-ld/textron-context.jsonld
   - type: Vocabulary
     url: vocabulary/textron-vocabulary.yml
