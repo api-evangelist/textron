@@ -1,7 +1,9 @@
 ---
 title: Kodiak AI and Textron Systems collaborate
 url: https://kodiak.ai/news/textron-systems-and-kodiak-collaborate
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Textron" press release artificial intelligence'
 position: 3
 source: serpapi-google

@@ -1,7 +1,9 @@
 ---
 title: TEXTRON SYSTEMS INTRODUCES DAMOCLES™ ...
 url: https://investor.textron.com/news-releases/news-details/2025/TEXTRON-SYSTEMS-INTRODUCES-DAMOCLES-LAUNCHED-EFFECT-SYSTEM/default.aspx
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Textron" press release artificial intelligence'
 position: 1
 source: serpapi-google

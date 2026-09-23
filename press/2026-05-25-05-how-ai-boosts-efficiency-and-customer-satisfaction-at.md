@@ -1,7 +1,9 @@
 ---
 title: How AI boosts efficiency and customer satisfaction at ...
 url: https://www.linkedin.com/posts/paragladha_textron-aviation-enhances-maintenance-efficiency-activity-7308579418141073408-qd7m
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Textron" press release artificial intelligence'
 position: 5
 source: serpapi-google
