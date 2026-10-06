@@ -43,10 +43,12 @@ tags:
 url: >-
   https://raw.githubusercontent.com/api-evangelist/textron/refs/heads/main/apis.yml
 created: '2026-05-03'
-modified: '2026-05-03'
+modified: '2026-10-06'
 specificationVersion: '0.23'
 apis: []
 common:
+  - url: https://www.textron.com/rss.xml
+    type: BlogRSS
   - type: DomainSecurity
     url: security/textron-domain-security.yml
   - type: Website
